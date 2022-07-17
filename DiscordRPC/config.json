@@ -1,20 +1,20 @@
 {
-    "userid": "998210517879504987",
-    "state": "mental capacity: ",
-    "description": "am nerd.",
-    "image_large": "discord-logogo",
-    "image_large_text": "This took way too long to program...",
-    "image_small": "discord-verified",
-    "party_max": 100,
-    "party_current": 3,
+    "userid": "<enter user id>",
+    "state": "ex: playing or looking for group ",
+    "description": "description",
+    "image_large": "image name",
+    "image_large_text": "hover text",
+    "image_small": "small image",
+    "party_max": 10,
+    "party_current": 1,
     "buttons": {
         "button1": {
-            "text": "Github",
-            "link": "https://github.com/CarrotCoder"
+            "text": "button 1",
+            "link": "url"
         },
         "button2": {
-            "text": "Not yet implemented :P",
-            "link": "https://google.com"
+            "text": "button 2",
+            "link": "url"
         }
     }
 }
