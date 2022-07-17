@@ -7,9 +7,7 @@ client.on("ready", () => {
     console.clear()
     console.log(`Connected. Logged in as: ${client.user.username} \n`)
 
-
     client.clearActivity()
-
     client.setActivity({
         state: config.state,
         details: config.description,
