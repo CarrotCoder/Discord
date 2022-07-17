@@ -1,5 +1,5 @@
 {
-    "userid": "<enter user id>",
+    "appid": "<enter app id>",
     "state": "ex: playing or looking for group ",
     "description": "description",
     "image_large": "image name",

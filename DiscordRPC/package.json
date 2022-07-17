@@ -15,6 +15,7 @@
   "author": "Allu#2670",
   "license": "ISC",
   "dependencies": {
-    "discord-rpc": "^4.0.1"
+    "discord-rpc": "^4.0.1",
+    "discord.js-selfbot": "^12.0.2"
   }
 }
