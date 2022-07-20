@@ -19,4 +19,6 @@ client.on("ready", () => {
         startTimestamp: Math.floor(new Date().getTime() / 1000)
     })
 })
-client.login(config.appid)
+client.login({
+    config.appid,
+})
